@@ -1,4 +1,4 @@
-![Sample arcade posters](images/sample_arc.png "Sample arcade posters")
+![Sample arcade posters](docs/sample_arc.png "Sample arcade posters")
 
 # VG Art
 
