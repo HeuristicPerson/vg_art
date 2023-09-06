@@ -1,3 +1,5 @@
+![Sample arcade posters](images/sample_arc.png "Sample arcade posters")
+
 # VG Art
 
 This public repository contains a dump of some posters and box scans I use in my
