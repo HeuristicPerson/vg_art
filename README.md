@@ -12,6 +12,8 @@ I don't know what's the maximum size of public (free) repositories in github;
 there is a chance this repository will eventually go beyond the limit, and hence
 I'll delete it.
 
-<p align="center">
 [![Patreon button](docs/patreon_button.png)](https://www.patreon.com/romdb)
+
+<p align="center">
+    <a href="https://www.patreon.com/romdb"><img src="docs/patreon_button.png" /></a>
 </p>
